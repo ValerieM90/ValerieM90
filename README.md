@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ValerieM90
 - 👀 I’m interested in a job in the field of data analytics.
-- 🌱 I’m currently learning -
+- 🌱 I’m currently learning how to use github.
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me: valeriemuenz@protonmail.com
 
